@@ -15,8 +15,8 @@
           "version": "1.0.0",
           "category": "Contributed",
           "url": "https://github.com/zacknuv/RaceroHUNASupport/releases/download/1.0.0/hunarobo-avr-1.0.0.zip",
-          "archiveFileName": "racero-avr-1.0.0.zip",
-          "checksum": "SHA-256:sha256:01389438ec3fa941450db91ff5fb658a388967943d338d2a902c3cf9bdab0c2a",
+          "archiveFileName": "hunarobo-avr-1.0.0.zip",
+          "checksum": "SHA-256:01389438ec3fa941450db91ff5fb658a388967943d338d2a902c3cf9bdab0c2a",
           "size": "13321093",
           "boards": [
             {
