@@ -14,9 +14,9 @@
           "architecture": "avr",
           "version": "1.0.1",
           "category": "Contributed",
-          "url": "https://github.com/zacknuv/RaceroHUNASupport/releases/download/1.0.1/hunarobo-avr-1.0.1.zip",
-          "archiveFileName": "hunarobo-avr-1.0.1.zip",
-          "checksum": "SHA-256:ae420c5a337b9528f1ccb19e5b7936e29b669d99a17e5e8ad5e84edf6ab6322c",
+          "url": "https://github.com/zacknuv/RaceroHUNASupport/releases/download/1.0.1/hunarobo-avr-1.0.2.zip",
+          "archiveFileName": "hunarobo-avr-1.0.2.zip",
+          "checksum": "SHA-256:ae889db37ce8aef2cd2b6ef70b9f4b9ce70651f0d83459c030d0533f7ca8497c",
           "size": "23,283,851",
           "boards": [
             {
